@@ -4,7 +4,8 @@ Adds any program to quickly run from Win+R
 How to use:
 
 1. Run the .bat as admin in the folder where the .exe is going to be
-2. Win+R add "path" name
+2. Set RegistryRunAdder.exe to always run as admin from right click -> compatibility -> check "Always run as admin"
+3. Win+R add "path" name
 
 Example:
 
