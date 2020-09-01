@@ -11,6 +11,6 @@ How to use:
 
 Example:
 
-add "B:\DesktopB\game.exe" game
+add "C:\Desktop\game.exe" game
 
 Then simply do Win+R game to launch it, quotes are only necessary if the path has whitespace characters.
