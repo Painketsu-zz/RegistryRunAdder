@@ -1,7 +1,7 @@
 # RegistryRunAdder
 Adds any program to quickly run from Win+R
 
-Remover at: https://github.com/Painketsu/RegistryRunAdder
+Remover at: https://github.com/Painketsu/RegistryRunRemover
 
 How to use:
 
